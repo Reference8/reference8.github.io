@@ -12,8 +12,6 @@ Launch the latest build of [Reference8](https://reference8.com) in your browser.
 - [x] Overlay different types of grids over the photo.
 - [x] Compare the original photo with photo with a grayscale, high contrast, or blur filter applied. 
 
-If you'd like to help out, please take a look at the Contributing section below.
-
 ## Installing
 
 ```bash
@@ -34,10 +32,7 @@ Then open [http://localhost:3000](http://localhost:3000) with your browser to se
 
 ### Contributing
 
-Reference8 is React + Next.js project using TailwindCSS for styling. The project (currently) uses plain Javascript modules rather than Typescript. 
-
-Contributions are welcome. You can open an issue, or get it contact with me at hi@noahrahm.com.
-
+Reference8 is React + Next.js project using TailwindCSS for styling. The project uses plain Javascript modules rather than Typescript. 
 
 ## License
 
