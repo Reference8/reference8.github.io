@@ -1,10 +1,10 @@
 # Reference8
 
-[![Reference8](/.readme/reference8-banner.png)](https://reference8.com)
+[![Reference8](/.readme/reference8-banner.png)](https://reference8.github.io)
 
 Web-based photo reference tool for artists and creatives. 
 
-Launch the latest build of [Reference8](https://reference8.com) in your browser.
+Launch the latest build of [Reference8](https://reference8.github.io) in your browser.
 
 - [x] Toggle fullscreen.
 - [x] Select a photo or drag and drop to upload.
